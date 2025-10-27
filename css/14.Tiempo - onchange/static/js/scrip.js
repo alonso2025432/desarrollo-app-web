@@ -46,3 +46,4 @@ function cambiar(medida){
 function alerta(){
     alert("This page says \n loading weather report...")
 }
+console.log("funciona!")
